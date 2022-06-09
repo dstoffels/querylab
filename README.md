@@ -1,1 +1,1 @@
-# querylab
+# querying-lab
